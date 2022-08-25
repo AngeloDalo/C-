@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\16) array infinita\array infinita\bin\Debug\array infinita.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\16) array infinita\array infinita\bin\Debug\array infinita.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\16) array infinita\array infinita\bin\Debug\array infinita.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\16) array infinita\array infinita\obj\Debug\array infinita.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\16) array infinita\array infinita\obj\Debug\array infinita.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\16) array infinita\array infinita\obj\Debug\array infinita.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\16) array infinita\array infinita\obj\Debug\array infinita.pdb

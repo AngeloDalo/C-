@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\32) classi nidificate\classi nidificate\obj\Debug\classi nidificate.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\32) classi nidificate\classi nidificate\obj\Debug\classi nidificate.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\32) classi nidificate\classi nidificate\bin\Debug\classi nidificate.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\32) classi nidificate\classi nidificate\bin\Debug\classi nidificate.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\32) classi nidificate\classi nidificate\bin\Debug\classi nidificate.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\32) classi nidificate\classi nidificate\obj\Debug\classi nidificate.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\32) classi nidificate\classi nidificate\obj\Debug\classi nidificate.pdb

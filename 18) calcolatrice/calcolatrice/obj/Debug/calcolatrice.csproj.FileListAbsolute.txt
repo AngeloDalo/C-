@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\18) calcolatrice\calcolatrice\obj\Debug\calcolatrice.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\18) calcolatrice\calcolatrice\obj\Debug\calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\18) calcolatrice\calcolatrice\bin\Debug\calcolatrice.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\18) calcolatrice\calcolatrice\bin\Debug\calcolatrice.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\18) calcolatrice\calcolatrice\bin\Debug\calcolatrice.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\18) calcolatrice\calcolatrice\obj\Debug\calcolatrice.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\18) calcolatrice\calcolatrice\obj\Debug\calcolatrice.pdb

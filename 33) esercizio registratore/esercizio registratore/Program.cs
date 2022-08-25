@@ -1,0 +1,55 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace esercizio_registratore
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Order order = new Order();
+            order.AddOrderLine("Cheese", 5, 1.99);
+            order.AddOrderLine("Oranges", 12, 0.35);
+            Console.WriteLine(order.OrderTotal());  // Outputs "14.15"
+        }
+    }
+    class Order
+    {
+        private List<OrderLine> _orderLines = new List<OrderLine>();
+
+        public void AddOrderLine(string product, int quantity, double price)
+        {
+            OrderLine line = new OrderLine();
+            line.ProductName = product;
+            line.Quantity = quantity;
+            line.Price = price;
+            _orderLines.Add(line);
+        }
+
+        public double OrderTotal()
+        {
+            double total = 0;
+            foreach (OrderLine line in _orderLines)
+            {
+                total += line.OrderLineTotal();
+            }
+            return total;
+        }
+
+        // Nested class
+        private class OrderLine
+        {
+            public string ProductName { get; set; }
+            public int Quantity { get; set; }
+            public double Price { get; set; }
+
+            public double OrderLineTotal()
+            {
+                return Price * Quantity;
+            }
+        }
+    }
+}

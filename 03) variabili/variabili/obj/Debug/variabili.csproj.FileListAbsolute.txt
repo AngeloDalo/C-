@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\03) variabili\variabili\bin\Debug\variabili.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\03) variabili\variabili\bin\Debug\variabili.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\03) variabili\variabili\bin\Debug\variabili.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\03) variabili\variabili\obj\Debug\variabili.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\03) variabili\variabili\obj\Debug\variabili.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\03) variabili\variabili\obj\Debug\variabili.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\03) variabili\variabili\obj\Debug\variabili.pdb

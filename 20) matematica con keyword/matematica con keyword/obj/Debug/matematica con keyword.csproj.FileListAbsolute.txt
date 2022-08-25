@@ -1,0 +1,6 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20) matematica con keyword\matematica con keyword\bin\Debug\matematica con keyword.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20) matematica con keyword\matematica con keyword\bin\Debug\matematica con keyword.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20) matematica con keyword\matematica con keyword\bin\Debug\matematica con keyword.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20) matematica con keyword\matematica con keyword\obj\Debug\matematica con keyword.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20) matematica con keyword\matematica con keyword\obj\Debug\matematica con keyword.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20) matematica con keyword\matematica con keyword\obj\Debug\matematica con keyword.pdb

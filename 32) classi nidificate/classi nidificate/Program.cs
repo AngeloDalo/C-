@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace classi_nidificate
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ClassePrincipale riferimentoclasseprincipale = new ClassePrincipale();
+            riferimentoclasseprincipale.varClassePrincipale += 1000;
+            riferimentoclasseprincipale.MetodoClassePrincipale();
+
+            ClassePrincipale.Interna riferimentoclasseinterna = new ClassePrincipale.Interna();
+            riferimentoclasseinterna.varClasseInterna += 2000;
+            riferimentoclasseinterna.MetodoInterno();
+        }
+    }
+    class ClassePrincipale
+    {
+        public int varClassePrincipale = 10;
+        public class Interna
+        {
+            public int varClasseInterna = 50;
+            public void MetodoInterno()
+            {
+                Console.WriteLine($"Dal MetodoInterno()\n" + $"La varClasseInterna ha un valore di {varClasseInterna}.\n");
+            }
+        }
+        Interna interna = new Interna();
+        public void MetodoClassePrincipale()
+        {
+            varClassePrincipale += 100;
+            interna.MetodoInterno();
+            interna.varClasseInterna += 30;
+            Console.WriteLine($"\nDal MetodoClassePrincipale() =\n" + $"La varClassePrincipale ha un valore di :{varClassePrincipale}\n" + $"La varClasseInterna ha un valore di : {interna.varClasseInterna}\n");
+        }
+    }
+}

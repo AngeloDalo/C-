@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ereditarietà e keyword protected", "ereditarietà e keyword protected.csproj", "{B412FDCB-6131-4FF0-90AB-0F673E29817D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B412FDCB-6131-4FF0-90AB-0F673E29817D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B412FDCB-6131-4FF0-90AB-0F673E29817D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B412FDCB-6131-4FF0-90AB-0F673E29817D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B412FDCB-6131-4FF0-90AB-0F673E29817D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9B0A04C-6BF0-437A-BF67-6D1E22A38C0C}
+	EndGlobalSection
+EndGlobal

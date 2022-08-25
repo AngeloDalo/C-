@@ -1,0 +1,14 @@
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/bin/Debug/netcoreapp2.2/Articoli-Web-Service.deps.json
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/bin/Debug/netcoreapp2.2/Articoli-Web-Service.runtimeconfig.json
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/bin/Debug/netcoreapp2.2/Articoli-Web-Service.runtimeconfig.dev.json
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/bin/Debug/netcoreapp2.2/Articoli-Web-Service.dll
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/bin/Debug/netcoreapp2.2/Articoli-Web-Service.pdb
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/obj/Debug/netcoreapp2.2/Articoli-Web-Service.csprojAssemblyReference.cache
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/obj/Debug/netcoreapp2.2/Articoli-Web-Service.csproj.CoreCompileInputs.cache
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/obj/Debug/netcoreapp2.2/Articoli-Web-Service.RazorAssemblyInfo.cache
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/obj/Debug/netcoreapp2.2/Articoli-Web-Service.RazorAssemblyInfo.cs
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/obj/Debug/netcoreapp2.2/Articoli-Web-Service.AssemblyInfoInputs.cache
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/obj/Debug/netcoreapp2.2/Articoli-Web-Service.AssemblyInfo.cs
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/obj/Debug/netcoreapp2.2/Articoli-Web-Service.RazorTargetAssemblyInfo.cache
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/obj/Debug/netcoreapp2.2/Articoli-Web-Service.dll
+/home/nicola/Documents/CSharp/Udemy/FullStack/ArticoliWebService/obj/Debug/netcoreapp2.2/Articoli-Web-Service.pdb

@@ -1,0 +1,48 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace listino_prezzi
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] articolo = new string[0];
+            decimal[] prezzo = new decimal[0];
+            double[] ivaApplicate = new double[0];
+            double[] ivaCalcolo = new double[0];
+
+            int quantitativoArticoli = 0;
+            Console.WriteLine("Quanti articoli vuoi inserire");
+            quantitativoArticoli = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(quantitativoArticoli);
+
+            for (int i = 0; i < quantitativoArticoli; i++)
+            {
+                Array.Resize(ref articolo, i + 1);
+                Array.Resize(ref prezzo, i + 1);
+                Array.Resize(ref ivaApplicate, i + 1);
+                Array.Resize(ref ivaCalcolo, i + 1);
+
+                Console.WriteLine("Nome Articolo: ");
+                articolo[i] = Console.ReadLine();
+
+                Console.WriteLine("Prezzo: ");
+                prezzo[i] = Convert.ToDecimal(Console.ReadLine());
+
+                Console.WriteLine("Iva: ");
+                ivaApplicate[i] = Double.Parse(Console.ReadLine());
+
+                ivaCalcolo[i] = (Convert.ToDouble(prezzo[i]) * ivaApplicate[i]) / 100;
+            }
+
+            for (int i = 0; i <quantitativoArticoli; i++) 
+            {
+                Console.WriteLine($"Articolo: {articolo[i]}, Prezzo: {prezzo[i]}$, Iva: {ivaApplicate[i]}%, Iva Calcolo: {ivaCalcolo[i]}$");
+            }
+        }
+    }
+}

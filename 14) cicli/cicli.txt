@@ -1,0 +1,38 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace cicli
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //cicli while dowhile for
+            int i = 0;
+            while (i <= 5)
+            {
+                Console.WriteLine($"Sei al ciclo n°: {i + 1} del ciclo while");
+                i = i + 1;
+            }
+            Console.WriteLine("Ciclo while finito");
+
+            int ii = 0;
+            do
+            {
+                Console.WriteLine($"Sei al ciclo n°: {ii + 1} del ciclo do while");
+                ii = ii + 1;
+            } while (ii <= 5);
+            Console.WriteLine("Ciclo do while finito");
+
+            int iii=0;
+            for (iii=0; iii<=5; iii++)
+            {
+                Console.WriteLine($"Sei al ciclo n°: {iii + 1} del ciclo for");
+            }
+            Console.WriteLine("Ciclo for finito");
+        }
+    }
+}

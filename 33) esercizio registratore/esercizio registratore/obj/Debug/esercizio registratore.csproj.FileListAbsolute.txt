@@ -1,0 +1,6 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\33) esercizio registratore\esercizio registratore\obj\Debug\esercizio registratore.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\33) esercizio registratore\esercizio registratore\bin\Debug\esercizio registratore.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\33) esercizio registratore\esercizio registratore\bin\Debug\esercizio registratore.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\33) esercizio registratore\esercizio registratore\bin\Debug\esercizio registratore.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\33) esercizio registratore\esercizio registratore\obj\Debug\esercizio registratore.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\33) esercizio registratore\esercizio registratore\obj\Debug\esercizio registratore.pdb

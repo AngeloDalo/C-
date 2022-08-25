@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\06) read line e parse\read line e parse\bin\Debug\read line e parse.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\06) read line e parse\read line e parse\bin\Debug\read line e parse.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\06) read line e parse\read line e parse\bin\Debug\read line e parse.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\06) read line e parse\read line e parse\obj\Debug\read line e parse.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\06) read line e parse\read line e parse\obj\Debug\read line e parse.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\06) read line e parse\read line e parse\obj\Debug\read line e parse.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\06) read line e parse\read line e parse\obj\Debug\read line e parse.pdb

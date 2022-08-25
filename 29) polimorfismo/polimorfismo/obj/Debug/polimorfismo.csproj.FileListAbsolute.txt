@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\29) polimorfismo\polimorfismo\bin\Debug\polimorfismo.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\29) polimorfismo\polimorfismo\bin\Debug\polimorfismo.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\29) polimorfismo\polimorfismo\bin\Debug\polimorfismo.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\29) polimorfismo\polimorfismo\obj\Debug\polimorfismo.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\29) polimorfismo\polimorfismo\obj\Debug\polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\29) polimorfismo\polimorfismo\obj\Debug\polimorfismo.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\29) polimorfismo\polimorfismo\obj\Debug\polimorfismo.pdb

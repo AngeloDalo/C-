@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\25) costruttori\costruttori\bin\Debug\costruttori.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\25) costruttori\costruttori\bin\Debug\costruttori.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\25) costruttori\costruttori\bin\Debug\costruttori.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\25) costruttori\costruttori\obj\Debug\costruttori.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\25) costruttori\costruttori\obj\Debug\costruttori.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\25) costruttori\costruttori\obj\Debug\costruttori.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\25) costruttori\costruttori\obj\Debug\costruttori.pdb

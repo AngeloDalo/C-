@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\21) liste\liste\bin\Debug\liste.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\21) liste\liste\bin\Debug\liste.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\21) liste\liste\bin\Debug\liste.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\21) liste\liste\obj\Debug\liste.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\21) liste\liste\obj\Debug\liste.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\21) liste\liste\obj\Debug\liste.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\21) liste\liste\obj\Debug\liste.pdb

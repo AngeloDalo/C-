@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\04) conversioni\coversioni\obj\Debug\coversioni.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\04) conversioni\coversioni\obj\Debug\coversioni.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\04) conversioni\coversioni\bin\Debug\coversioni.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\04) conversioni\coversioni\bin\Debug\coversioni.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\04) conversioni\coversioni\bin\Debug\coversioni.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\04) conversioni\coversioni\obj\Debug\coversioni.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\04) conversioni\coversioni\obj\Debug\coversioni.pdb

@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\13) scope\scope\bin\Debug\scope.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\13) scope\scope\bin\Debug\scope.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\13) scope\scope\bin\Debug\scope.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\13) scope\scope\obj\Debug\scope.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\13) scope\scope\obj\Debug\scope.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\13) scope\scope\obj\Debug\scope.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\13) scope\scope\obj\Debug\scope.pdb

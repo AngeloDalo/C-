@@ -1,0 +1,38 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace metodi_statici
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //METODO NON STATICO : è una operazione che faccio con un oggetto
+            //METODO STATICO: è un metodo che è associato alla classe (lo posso usare in tutti i programmiche usano la class) però non è una operazione che faccio su un oggetto
+            Metodo2();
+            MetodoStatico();
+            ClasseDiMetodiNonStatici tutorial = new ClasseDiMetodiNonStatici();
+            tutorial.MedotoNonStatico();
+        }
+        static public void Metodo2()
+        {
+            //senza static Main non lo vedrebbe
+            string primaStringa = "Hello World";
+            Console.WriteLine(primaStringa);
+        }
+        static void MetodoStatico()
+        {
+            Console.WriteLine("metodo statico");
+        }
+    }
+    class ClasseDiMetodiNonStatici
+    {
+        public void MedotoNonStatico()
+        {
+            Console.WriteLine("Metodo non statico");
+        }
+    }
+}

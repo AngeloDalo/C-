@@ -1,0 +1,6 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\43) delegate\delegate\bin\Debug\@delegate.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\43) delegate\delegate\bin\Debug\@delegate.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\43) delegate\delegate\bin\Debug\@delegate.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\43) delegate\delegate\obj\Debug\delegate.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\43) delegate\delegate\obj\Debug\@delegate.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\43) delegate\delegate\obj\Debug\@delegate.pdb

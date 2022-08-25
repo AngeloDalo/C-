@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\41) salvare e scrivere file\salvare e scrivere file\obj\Debug\salvare e scrivere file.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\41) salvare e scrivere file\salvare e scrivere file\obj\Debug\salvare e scrivere file.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\41) salvare e scrivere file\salvare e scrivere file\bin\Debug\salvare e scrivere file.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\41) salvare e scrivere file\salvare e scrivere file\bin\Debug\salvare e scrivere file.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\41) salvare e scrivere file\salvare e scrivere file\bin\Debug\salvare e scrivere file.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\41) salvare e scrivere file\salvare e scrivere file\obj\Debug\salvare e scrivere file.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\41) salvare e scrivere file\salvare e scrivere file\obj\Debug\salvare e scrivere file.pdb

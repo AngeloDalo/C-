@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\37) interfacce\interfacce\bin\Debug\interfacce.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\37) interfacce\interfacce\bin\Debug\interfacce.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\37) interfacce\interfacce\bin\Debug\interfacce.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\37) interfacce\interfacce\obj\Debug\interfacce.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\37) interfacce\interfacce\obj\Debug\interfacce.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\37) interfacce\interfacce\obj\Debug\interfacce.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\37) interfacce\interfacce\obj\Debug\interfacce.pdb

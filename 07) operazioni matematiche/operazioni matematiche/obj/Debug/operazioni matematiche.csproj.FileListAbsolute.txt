@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\07) operazioni matematiche\operazioni matematiche\bin\Debug\operazioni matematiche.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\07) operazioni matematiche\operazioni matematiche\bin\Debug\operazioni matematiche.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\07) operazioni matematiche\operazioni matematiche\bin\Debug\operazioni matematiche.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\07) operazioni matematiche\operazioni matematiche\obj\Debug\operazioni matematiche.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\07) operazioni matematiche\operazioni matematiche\obj\Debug\operazioni matematiche.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\07) operazioni matematiche\operazioni matematiche\obj\Debug\operazioni matematiche.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\07) operazioni matematiche\operazioni matematiche\obj\Debug\operazioni matematiche.pdb

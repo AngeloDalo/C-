@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\28) ereditarietà e keyword protected\ereditarietà e keyword protected\bin\Debug\ereditarietà e keyword protected.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\28) ereditarietà e keyword protected\ereditarietà e keyword protected\bin\Debug\ereditarietà e keyword protected.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\28) ereditarietà e keyword protected\ereditarietà e keyword protected\bin\Debug\ereditarietà e keyword protected.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\28) ereditarietà e keyword protected\ereditarietà e keyword protected\obj\Debug\ereditarietà e keyword protected.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\28) ereditarietà e keyword protected\ereditarietà e keyword protected\obj\Debug\ereditarietà e keyword protected.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\28) ereditarietà e keyword protected\ereditarietà e keyword protected\obj\Debug\ereditarietà e keyword protected.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\28) ereditarietà e keyword protected\ereditarietà e keyword protected\obj\Debug\ereditarietà e keyword protected.pdb

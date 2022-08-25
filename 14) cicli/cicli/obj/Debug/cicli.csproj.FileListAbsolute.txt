@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\14) cicli\cicli\obj\Debug\cicli.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\14) cicli\cicli\obj\Debug\cicli.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\14) cicli\cicli\bin\Debug\cicli.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\14) cicli\cicli\bin\Debug\cicli.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\14) cicli\cicli\bin\Debug\cicli.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\14) cicli\cicli\obj\Debug\cicli.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\14) cicli\cicli\obj\Debug\cicli.pdb

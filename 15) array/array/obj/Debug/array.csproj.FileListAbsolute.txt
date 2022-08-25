@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\15) array\array\bin\Debug\array.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\15) array\array\bin\Debug\array.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\15) array\array\bin\Debug\array.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\15) array\array\obj\Debug\array.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\15) array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\15) array\array\obj\Debug\array.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\15) array\array\obj\Debug\array.pdb

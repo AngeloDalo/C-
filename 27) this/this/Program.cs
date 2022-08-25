@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace @this
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Ordine tutorial = new Ordine();
+            tutorial.RichiamoOggetto("tutorial1", "tutorial2");
+        }
+    }
+    class Ordine
+    {
+        string mittente = "io";
+        string richiesta = " fai qualcosa";
+        public void RichiamoOggetto(string mittente, string richiesta)
+        {
+            mittente = "tutti";
+            richiesta = " fate qualcosa";
+            Console.WriteLine(mittente + richiesta);
+            Console.WriteLine(this.mittente + this.richiesta);
+        }
+    }
+}

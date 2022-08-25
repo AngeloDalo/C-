@@ -1,0 +1,14 @@
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/bin/Debug/netcoreapp2.2/GestUser.deps.json
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/bin/Debug/netcoreapp2.2/GestUser.runtimeconfig.json
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/bin/Debug/netcoreapp2.2/GestUser.runtimeconfig.dev.json
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/bin/Debug/netcoreapp2.2/GestUser.dll
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/bin/Debug/netcoreapp2.2/GestUser.pdb
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/obj/Debug/netcoreapp2.2/GestUser.csprojAssemblyReference.cache
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/obj/Debug/netcoreapp2.2/GestUser.csproj.CoreCompileInputs.cache
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/obj/Debug/netcoreapp2.2/GestUser.RazorAssemblyInfo.cache
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/obj/Debug/netcoreapp2.2/GestUser.RazorAssemblyInfo.cs
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/obj/Debug/netcoreapp2.2/GestUser.AssemblyInfoInputs.cache
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/obj/Debug/netcoreapp2.2/GestUser.AssemblyInfo.cs
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/obj/Debug/netcoreapp2.2/GestUser.RazorTargetAssemblyInfo.cache
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/obj/Debug/netcoreapp2.2/GestUser.dll
+/home/nicola/Documents/CSharp/Udemy/FullStack/GestUser/obj/Debug/netcoreapp2.2/GestUser.pdb

@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\31) polimorfismo abstract 2\polimorfismo abstract 2\bin\Debug\polimorfismo abstract 2.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\31) polimorfismo abstract 2\polimorfismo abstract 2\bin\Debug\polimorfismo abstract 2.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\31) polimorfismo abstract 2\polimorfismo abstract 2\bin\Debug\polimorfismo abstract 2.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\31) polimorfismo abstract 2\polimorfismo abstract 2\obj\Debug\polimorfismo abstract 2.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\31) polimorfismo abstract 2\polimorfismo abstract 2\obj\Debug\polimorfismo abstract 2.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\31) polimorfismo abstract 2\polimorfismo abstract 2\obj\Debug\polimorfismo abstract 2.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\31) polimorfismo abstract 2\polimorfismo abstract 2\obj\Debug\polimorfismo abstract 2.pdb

@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace @while
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] primoArray = { 11, 22, 33, 44, 55 };
+            Console.WriteLine(primoArray[1]);
+
+            int[] secondoArray = new int[5];
+            //crea un nuovo array con posizioni dallo 0 a 4
+            secondoArray[0] = 11;
+            secondoArray[1] = 22;
+            secondoArray[2] = 33;
+            secondoArray[3] = 44;
+            secondoArray[4] = 55;
+            Console.WriteLine(secondoArray[4]);
+
+            string[] prodotto = new string[3];
+            for (int i=0; i<=2; i++)
+            {
+                Console.WriteLine("Scrivi nome del prodotto");
+                prodotto[i] = Console.ReadLine();
+                Console.WriteLine($"Sei al ciclo numero {i+1}: il prodotto si chiama {prodotto[i]}");
+            }
+        }
+    }
+}

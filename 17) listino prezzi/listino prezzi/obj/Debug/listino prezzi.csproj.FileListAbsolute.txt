@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\17) listino prezzi\listino prezzi\bin\Debug\listino prezzi.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\17) listino prezzi\listino prezzi\bin\Debug\listino prezzi.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\17) listino prezzi\listino prezzi\bin\Debug\listino prezzi.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\17) listino prezzi\listino prezzi\obj\Debug\listino prezzi.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\17) listino prezzi\listino prezzi\obj\Debug\listino prezzi.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\17) listino prezzi\listino prezzi\obj\Debug\listino prezzi.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\17) listino prezzi\listino prezzi\obj\Debug\listino prezzi.pdb

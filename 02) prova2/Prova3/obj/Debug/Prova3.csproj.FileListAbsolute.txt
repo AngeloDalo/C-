@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20-04-2022 Seconda prova\Prova3\bin\Debug\Prova3.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20-04-2022 Seconda prova\Prova3\bin\Debug\Prova3.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20-04-2022 Seconda prova\Prova3\bin\Debug\Prova3.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20-04-2022 Seconda prova\Prova3\obj\Debug\Prova3.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20-04-2022 Seconda prova\Prova3\obj\Debug\Prova3.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20-04-2022 Seconda prova\Prova3\obj\Debug\Prova3.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\20-04-2022 Seconda prova\Prova3\obj\Debug\Prova3.pdb

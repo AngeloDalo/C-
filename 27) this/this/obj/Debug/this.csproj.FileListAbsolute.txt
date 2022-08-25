@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\27) this\this\obj\Debug\this.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\27) this\this\obj\Debug\this.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\27) this\this\bin\Debug\@this.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\27) this\this\bin\Debug\@this.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\27) this\this\bin\Debug\@this.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\27) this\this\obj\Debug\@this.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\27) this\this\obj\Debug\@this.pdb

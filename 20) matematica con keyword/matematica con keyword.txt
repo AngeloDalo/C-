@@ -1,0 +1,47 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace matematica_con_keyword
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double x = 9e6;
+            Console.WriteLine(x);
+
+            //int x = 9e6; //non va
+            int y = 9_000_000;
+            Console.WriteLine(y);
+
+            double piGreco = 3.141519d;
+            //arrotonda per eccesso
+            double z = Math.Ceiling(piGreco);
+            //arrotonda per difetto
+            double c = Math.Floor(piGreco);
+            //arrotonda in base al valore dopo la virgola
+            double v = Math.Round(piGreco);
+            //mette tot numeri dopo la virgola
+            double b = Math.Round(piGreco, 2); //arrotonda cifre con virgola
+            //tronca i numeri dopo la virgola
+            double g = Math.Truncate(piGreco);
+            //pigreco
+            double n = 10 + Math.PI;
+
+            int a = 10;
+            int r = 5;
+            //max restituisce il valore più alto tra 2 numeri a 32 bit
+            int f = Math.Max(a, r);
+            //min restituisce il valore più basse tra 2 numeri a 32 bit
+            double h = Math.Min(a, r);
+            //radice quadrato
+            h = Math.Sqrt(f);
+            //potenza
+            h = Math.Pow(a, r);
+
+        }
+    }
+}

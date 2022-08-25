@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\34) classi parziali\classi parziali\bin\Debug\classi parziali.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\34) classi parziali\classi parziali\bin\Debug\classi parziali.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\34) classi parziali\classi parziali\bin\Debug\classi parziali.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\34) classi parziali\classi parziali\obj\Debug\classi parziali.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\34) classi parziali\classi parziali\obj\Debug\classi parziali.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\34) classi parziali\classi parziali\obj\Debug\classi parziali.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\34) classi parziali\classi parziali\obj\Debug\classi parziali.pdb

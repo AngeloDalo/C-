@@ -1,0 +1,6 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\23) reference out e overload dei metodi\reference out e overload dei metodi\bin\Debug\reference out e overload dei metodi.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\23) reference out e overload dei metodi\reference out e overload dei metodi\bin\Debug\reference out e overload dei metodi.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\23) reference out e overload dei metodi\reference out e overload dei metodi\bin\Debug\reference out e overload dei metodi.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\23) reference out e overload dei metodi\reference out e overload dei metodi\obj\Debug\reference out e overload dei metodi.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\23) reference out e overload dei metodi\reference out e overload dei metodi\obj\Debug\reference out e overload dei metodi.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\23) reference out e overload dei metodi\reference out e overload dei metodi\obj\Debug\reference out e overload dei metodi.pdb

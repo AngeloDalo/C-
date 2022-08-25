@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\19) try parse\try parse\bin\Debug\try parse.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\19) try parse\try parse\bin\Debug\try parse.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\19) try parse\try parse\bin\Debug\try parse.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\19) try parse\try parse\obj\Debug\try parse.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\19) try parse\try parse\obj\Debug\try parse.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\19) try parse\try parse\obj\Debug\try parse.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\19) try parse\try parse\obj\Debug\try parse.pdb

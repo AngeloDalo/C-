@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\08) matematica automatica\matematica automatica\bin\Debug\matematica automatica.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\08) matematica automatica\matematica automatica\bin\Debug\matematica automatica.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\08) matematica automatica\matematica automatica\bin\Debug\matematica automatica.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\08) matematica automatica\matematica automatica\obj\Debug\matematica automatica.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\08) matematica automatica\matematica automatica\obj\Debug\matematica automatica.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\08) matematica automatica\matematica automatica\obj\Debug\matematica automatica.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\08) matematica automatica\matematica automatica\obj\Debug\matematica automatica.pdb

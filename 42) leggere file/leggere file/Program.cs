@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.IO;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace leggere_file
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Directory.CreateDirectory(@"C:\Users\angel\OneDrive\Desktop\boolean\07)C#\41) salvare e scrivere file);
+            string fileTutorial = @"C:\Users\angel\OneDrive\Desktop\boolean\07)C#\42) leggere file\Tutorial.txt";
+            StreamWriter streamwriter = new StreamWriter(fileTutorial, true);
+            //true non fa creare un nuovo file ogni volta che faccio debug ma aggiunge nuove righe
+            //secondo metodo per creare e scrivere file
+            //using (StreamWriter streamwriter = new StreamWriter(fileTutorial, true))
+            //{
+            //    streamwriter.WriteLine("Tizio");
+            //    streamwriter.WriteLine("Caio");
+            //}
+            streamwriter.WriteLine("Tizio");
+            streamwriter.WriteLine("Caio");
+            streamwriter.Close();
+            string fileturorial = @"C:\Users\angel\OneDrive\Desktop\boolean\07)C#\42) leggere file\Lettura.txt";
+            StreamReader streamreader = new StreamReader(fileturorial);
+            Console.WriteLine(streamreader.ReadToEnd());
+            streamreader.Close();
+        }
+    }
+}

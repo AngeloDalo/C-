@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\24) classi\classi\bin\Debug\classi.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\24) classi\classi\bin\Debug\classi.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\24) classi\classi\bin\Debug\classi.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\24) classi\classi\obj\Debug\classi.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\24) classi\classi\obj\Debug\classi.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\24) classi\classi\obj\Debug\classi.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\24) classi\classi\obj\Debug\classi.pdb

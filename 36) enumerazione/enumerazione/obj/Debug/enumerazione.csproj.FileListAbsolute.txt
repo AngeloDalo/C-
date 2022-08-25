@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\36) enumerazione\enumerazione\bin\Debug\enumerazione.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\36) enumerazione\enumerazione\bin\Debug\enumerazione.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\36) enumerazione\enumerazione\bin\Debug\enumerazione.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\36) enumerazione\enumerazione\obj\Debug\enumerazione.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\36) enumerazione\enumerazione\obj\Debug\enumerazione.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\36) enumerazione\enumerazione\obj\Debug\enumerazione.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\36) enumerazione\enumerazione\obj\Debug\enumerazione.pdb

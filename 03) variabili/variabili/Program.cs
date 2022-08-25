@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace variabili
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //commento
+            /*
+             * commento su più righe
+             */
+
+            //string - testo 
+            //int - numero
+            //float - numero virgola (7 cifre di precisione): (2.5f; 5.555f)
+            //double - numero virgola (15 cifre di precisione) : (2.5; 5.5d)
+            //decimal - numero virgola (28 cifre di precisione) : (1000m)
+            //bool - true o false
+
+            string primoTesto = "Hello World";
+            Console.WriteLine(primoTesto);
+
+            int x = 5;
+            float y = x + 5.5f;
+            double z = x + 5.5d; //o 5.5
+            x += 5;
+
+            double zz = 5e-6d; //5 elevato alla -6
+            double zzz = 5e2f; //5 * 10 elevato al quadrato
+            Console.WriteLine(y);
+            Console.WriteLine(z);
+            Console.WriteLine(zz);
+            Console.WriteLine(zzz);
+            Console.WriteLine("La prima frase e': \n" + primoTesto + "La seconda e': " + x);
+            Console.WriteLine("La prima frase e': \n {0} La seconda e' {1}", primoTesto, x);
+            Console.WriteLine($"La prima varibile e': {primoTesto}\n la seconda e' {x}");
+        }
+    }
+}

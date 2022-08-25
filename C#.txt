@@ -1,0 +1,879 @@
+//VARIABILI
+string - testo 
+int - numero
+float - numero virgola (7 cifre di precisione): (2.5f; 5.555f)
+double - numero virgola (15 cifre di precisione) : (2.5; 5.5d)
+decimal - numero virgola (28 cifre di precisione) : (1000m)
+bool - true o false
+float y = x + 5.5f;
+double z = x + 5.5d; //o 5.5
+double zz = 5e-6d; //5 elevato alla -6
+double zzz = 5e2f; //5 * 10 elevato al quadrato
+
+//CONVERSIONI
+int numeroIntero = 22;
+string testo = numeroIntero.ToString();
+float numeroVirgola = 2.7f;
+numeroVirgola = numeroIntero; //mettere numero intero in float senza problemi
+float numeroVirgola2 = 2.7f;
+numeroIntero = Convert.ToInt32(numeroVirgola2); //primo metodo, trasformazione avviene per arrotondamento verso il pari nel caso del .5
+float numeroaVirgola3 = 5.9f;
+int numeroIntero2 = 1;
+numeroIntero2 = (int)numeroaVirgola3; //non specifico il numero dei bit, secondo metodo
+
+//WRITELINE E READLINE
+Console.WriteLine("Ciao, qual'è il tuo nome?");
+nome = Console.ReadLine();
+Console.WriteLine("Ciao " + nome + " " + cognome + " conosciuto anche come: " + soprannome + ", io mi chiamo Bot"); //primo metodo
+Console.WriteLine("Ciao {0} {1} conosciuto anche come :{2}, io mi chiamo Bot", nome, cognome, soprannome); //secondo metodo
+Console.WriteLine($"Ciao, {nome} {cognome}, conosciuto anche come: {soprannome}, io mi chiamo Bot"); //terzo metodo
+//parse è per i numeri
+int numeroIntero = int.Parse(Console.ReadLine());
+quantitativoArticoli = Convert.ToInt32(Console.ReadLine());
+float numeroVirgola = float.Parse(Console.ReadLine());
+
+//OPERAZIONI MATEMATICHE
+float x = 2.2f; //se lo scrivo nel cmd devo mettere la ,
+x = 10f / 3f;
+
+//IF ELSE
+int x = 5;
+if (x == 5)
+{
+   Console.WriteLine("x è uguale a 5");
+   } else if (x == 7)
+   {
+     Console.WriteLine("x è uguale a 7");
+   } else
+   {
+     Console.WriteLine("non so quanto vale x");
+   }
+}
+
+//SWITCH
+string risposta1 = Console.ReadLine();
+int x = 0;
+switch (risposta1)
+{
+	//si
+	case "si": Console.WriteLine("Hai risposto di si"); x++; break;
+	case "Si": Console.WriteLine("Hai risposto di si"); x++; break;
+	case "SI": Console.WriteLine("Hai risposto di si"); x++; break;
+	//no
+	case "no": Console.WriteLine("Hai risposto di no"); x--; break;
+	case "No": Console.WriteLine("Hai risposto di no"); x--; break;
+	case "NO": Console.WriteLine("Hai risposto di no"); x--; break;
+	//nessun caso di sopra
+	default: Console.WriteLine("Hai risposto ne si ne no"); x=100; break;
+}
+Console.WriteLine(x);
+
+//CICLI
+namespace cicli
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //cicli while dowhile for
+            int i = 0;
+            while (i <= 5)
+            {
+                Console.WriteLine($"Sei al ciclo n°: {i + 1} del ciclo while");
+                i = i + 1;
+            }
+            Console.WriteLine("Ciclo while finito");
+
+            int ii = 0;
+            do
+            {
+                Console.WriteLine($"Sei al ciclo n°: {ii + 1} del ciclo do while");
+                ii = ii + 1;
+            } while (ii <= 5);
+            Console.WriteLine("Ciclo do while finito");
+
+            int iii=0;
+            for (iii=0; iii<=5; iii++)
+            {
+                Console.WriteLine($"Sei al ciclo n°: {iii + 1} del ciclo for");
+            }
+            Console.WriteLine("Ciclo for finito");
+        }
+    }
+}
+
+//ARRAY
+int[] primoArray = { 11, 22, 33, 44, 55 };
+int[] secondoArray = new int[5];
+string[] prodotto = new string[3];
+//array infinita
+int[] arrayInfinita = new int[0];
+int i = 0;
+i++;
+Array.Resize(ref arrayInfinita, i + 1); 
+
+//TRY PARSE
+int.TryParse(Console.ReadLine(), out x);
+//prova a convertire in intero, se inserisco un non numero da 0 come risultato
+
+//Math
+int y = 9_000_000;
+double z = Math.Ceiling(piGreco);
+//arrotonda per difetto
+double c = Math.Floor(piGreco);
+//arrotonda in base al valore dopo la virgola
+double v = Math.Round(piGreco);
+//mette tot numeri dopo la virgola
+double b = Math.Round(piGreco, 2); 
+//arrotonda cifre con virgola
+//tronca i numeri dopo la virgola
+double g = Math.Truncate(piGreco);
+//pigreco
+double n = 10 + Math.PI;
+
+int a = 10;
+int r = 5;
+//max restituisce il valore più alto tra 2 numeri a 32 bit
+int f = Math.Max(a, r);
+//min restituisce il valore più basse tra 2 numeri a 32 bit
+double h = Math.Min(a, r);
+//radice quadrato
+h = Math.Sqrt(f);
+//potenza
+h = Math.Pow(a, r);
+
+//LISTE
+List<int> primaLista = new List<int>();
+primaLista.Add(100);
+primaLista.Add(200);
+Console.WriteLine(primaLista[1]);
+primaLista.Remove(200);
+Console.WriteLine("valori totali: " + primaLista.Count);
+
+//METODI
+static void Main(string[] args)
+{
+    int primoArgomento = 10;
+    int secondoArgomento = 30;
+    int somma = SecondoMetodo(primoArgomento, secondoArgomento);
+    Console.WriteLine(somma);
+}
+//con static voi faccio operazioni nel metodo senza return
+static int SecondoMetodo (int primoArgomento, int secondoArgomento)
+{
+    //potevo chiamare anche int x, int y
+    int totale = primoArgomento + secondoArgomento;
+    return totale;
+}
+
+//REFERENCES OUT OVERLOAD
+namespace reference_out_e_overload_dei_metodi
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int x = 10;
+            Console.WriteLine(x);
+            SecondoMetodo(ref x);
+            TerzoMetodo(out int y);
+            Console.WriteLine(x); //x=20
+            Console.WriteLine(y); //y=40
+            int xx = 10;
+            int yy = 20;
+            float zz = 5.5f;
+            int somma1 = MarioRossi(xx, yy);
+            float somma2 = MarioRossi(xx, yy, zz);
+            Console.WriteLine(somma1);
+            Console.WriteLine(somma2);
+        }
+        static void SecondoMetodo(ref int x)
+        {
+            x = 20;  //uso il ref per evitare il return, x = 20 sopra
+        }
+        static void TerzoMetodo(out int y)
+        {
+            y = 40; //dichiaro la varibile con out e la utilizzo sopra
+        }
+        static int MarioRossi (int x, int y)
+        {
+            int totale = x + y;
+            return totale;
+        }
+        static float MarioRossi (int x, int y, float z)
+        {
+            float totale = x + y + z;
+            return totale;
+        }
+    }
+}
+
+//CLASSI E COSTRUTTORI
+namespace classi
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ClasseDiProva riferementoOggettoUno = new ClasseDiProva();
+            riferementoOggettoUno.Nome = "Mario";
+            riferementoOggettoUno.Cognome = "Rossi";
+            riferementoOggettoUno.Media = 10;
+
+            ClasseDiProva riferementoOggettoDue = new ClasseDiProva();
+            riferementoOggettoDue.Nome = "Franco";
+            riferementoOggettoDue.Cognome = "Ceccio";
+            riferementoOggettoDue.Media = 8;
+
+            Console.WriteLine(riferementoOggettoUno.Nome);
+        }
+    }
+}
+namespace classi
+{
+    class ClasseDiProva
+    {
+        public string nome;
+        private string cognome;
+        int media;
+        //GET eseguito al momento della lettura, esso prende il valore della varibile
+        //SET eseguito al momento della scrittura, esso viene eseguito quanto viene
+        //    assegnato un NUOVO valore alla varibile
+        //GET E SET NON sono classificabili come varibili, NON è quindi possibile
+        //passare come riferimento "REF" o "OUT"
+        public string Nome
+        {
+            get { return nome; }
+            set { nome = value; }
+        }
+        public string Cognome
+        {
+            get { return cognome; }
+            set { cognome = value; }
+        }
+        public int Media
+        {
+            get { return media; }
+            set { media = value; }
+        }
+        public ClasseDiProva() //se non metto qualcosa in program darà valori de default
+        {
+            nome = "Gennaro";
+            cognome = "Esposito";
+            media = 2;
+        }
+    }
+}
+
+//METODI STATICI
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace metodi_statici
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //METODO NON STATICO : è una operazione che faccio con un oggetto
+            //METODO STATICO: è un metodo che è associato alla classe (lo posso usare in tutti i programmiche usano la class) però non è una operazione che faccio su 	      un oggetto
+            Metodo2();
+            MetodoStatico();
+            ClasseDiMetodiNonStatici tutorial = new ClasseDiMetodiNonStatici();
+            tutorial.MedotoNonStatico();
+        }
+        static public void Metodo2()
+        {
+            //senza static Main non lo vedrebbe
+            string primaStringa = "Hello World";
+            Console.WriteLine(primaStringa);
+        }
+        static void MetodoStatico()
+        {
+            Console.WriteLine("metodo statico");
+        }
+    }
+    class ClasseDiMetodiNonStatici
+    {
+        public void MedotoNonStatico()
+        {
+            Console.WriteLine("Metodo non statico");
+        }
+    }
+}
+
+//THIS
+namespace @this
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Ordine tutorial = new Ordine();
+            tutorial.RichiamoOggetto("tutorial1", "tutorial2");
+        }
+    }
+    class Ordine
+    {
+        string mittente = "io";
+        string richiesta = " fai qualcosa";
+        public void RichiamoOggetto(string mittente, string richiesta)
+        {
+            mittente = "tutti";
+            richiesta = " fate qualcosa";
+            Console.WriteLine(mittente + richiesta); //tutorial1 e tutorial2 diventano tutti e fai qualcosa
+            Console.WriteLine(this.mittente + this.richiesta); //io e fai qualcosa
+        }
+    }
+}
+
+//EREDITARIETA' E PROTECTED
+namespace ereditarietà_e_keyword_protected
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //le superclassi cedono le proprie informazioni alle sottoclassi
+            //padre e figlio
+            //Padre tutorial = new Padre();
+            //tutorial.MetodoPadre();
+            Figlio tutorial2 = new Figlio();
+            tutorial2.MetodoPadre();
+            tutorial2.MetodoFiglio();
+        }
+    }
+    class Dna
+    {
+        protected string coloreOcchi;
+        protected string coloreCapelli;
+    }
+    class Padre : Dna
+    {
+        protected string cognome = "Rossi";
+        private string nome;
+        public void MetodoPadre()
+        {
+            nome = " Mario";
+            coloreOcchi = " gli occhi sono marroni";
+            Console.WriteLine(cognome + nome + coloreOcchi);
+        }
+    }
+    class Figlio : Padre
+    {
+        private string nome;
+        public void MetodoFiglio()
+        {
+            nome = " Tiziano";
+            coloreOcchi = " gli occhi del figlio sono castani";
+            coloreCapelli = " calvo";
+            Console.WriteLine(cognome + nome + coloreOcchi + coloreCapelli);
+        }
+    }
+}
+
+//POLIMORFISMO E FOREACH
+namespace polimorfismo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //SuperClasse tutoril2 = new SuperClasse();
+            //tutoril2.MetodoA();
+
+            //SottoClsseUno tutorial = new SottoClsseUno();
+            //tutorial.MetodoA();
+            SuperClasse[] tutorialOverride = new SuperClasse[3];
+            tutorialOverride[0] = new SuperClasse();
+            tutorialOverride[1] = new SottoClsseUno();
+            tutorialOverride[2] = new SottoClsseDue();
+            //tutorialOverride[0].MetodoA();
+            //tutorialOverride[1].MetodoA();
+            //tutorialOverride[2].MetodoA();
+
+            foreach (var item in tutorialOverride)
+            {
+                item.MetodoA();
+            }
+        }
+    }
+    class SuperClasse
+    {
+        protected int variabile = 10;
+        public virtual void MetodoA()
+        {
+            variabile = variabile + 5;
+            Console.WriteLine(variabile);
+        }
+    }
+    class SottoClsseUno : SuperClasse
+    {
+        public override void MetodoA()
+        {
+            variabile = variabile + 100;
+            Console.WriteLine(variabile);
+        }
+    }
+    class SottoClsseDue : SuperClasse
+    {
+        public override void MetodoA()
+        {
+            variabile = variabile + 1000;
+            Console.WriteLine(variabile);
+        }
+    }
+}
+
+//ABSTRACT
+namespace polimorfismo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //SuperClasse tutoril2 = new SuperClasse();
+            //tutoril2.MetodoA();
+
+            //SottoClsseUno tutorial = new SottoClsseUno();
+            //tutorial.MetodoA();
+            SuperClasse[] tutorialOverride = new SuperClasse[2];
+            //tutorialOverride[0] = new SuperClasse(); //non posso chiamare classe astratta
+            tutorialOverride[0] = new SottoClsseUno();
+            tutorialOverride[1] = new SottoClsseDue();
+            //tutorialOverride[0].MetodoA();
+            //tutorialOverride[1].MetodoA();
+            //tutorialOverride[2].MetodoA();
+
+            foreach (var item in tutorialOverride)
+            {
+                item.MetodoA();
+                item.MetodoAbs();
+            }
+        }
+    }
+    abstract class SuperClasse
+    {
+        protected int variabile = 10;
+        public abstract void MetodoAbs();
+        public virtual void MetodoA()
+        {
+            variabile = variabile + 5;
+            Console.WriteLine(variabile);
+        }
+    }
+    class SottoClsseUno : SuperClasse
+    {
+        public override void MetodoAbs()
+        {
+            Console.WriteLine("ciao");
+        }
+        public override void MetodoA()
+        {
+            variabile = variabile + 100;
+            Console.WriteLine(variabile);
+        }
+    }
+    class SottoClsseDue : SuperClasse
+    {
+        public override void MetodoAbs()
+        {
+            Console.WriteLine("ciao2");
+        }
+        public override void MetodoA()
+        {
+            variabile = variabile + 1000;
+            Console.WriteLine(variabile);
+        }
+    }
+}
+
+//CLASSI NIDIFICATE
+namespace classi_nidificate
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ClassePrincipale riferimentoclasseprincipale = new ClassePrincipale();
+            riferimentoclasseprincipale.varClassePrincipale += 1000;
+            riferimentoclasseprincipale.MetodoClassePrincipale();
+
+            ClassePrincipale.Interna riferimentoclasseinterna = new ClassePrincipale.Interna();
+            riferimentoclasseinterna.varClasseInterna += 2000;
+            riferimentoclasseinterna.MetodoInterno();
+        }
+    }
+    class ClassePrincipale
+    {
+        public int varClassePrincipale = 10;
+        public class Interna
+        {
+            public int varClasseInterna = 50;
+            public void MetodoInterno()
+            {
+                Console.WriteLine($"Dal MetodoInterno()\n" + $"La varClasseInterna ha un valore di {varClasseInterna}.\n");
+            }
+        }
+        Interna interna = new Interna();
+        public void MetodoClassePrincipale()
+        {
+            varClassePrincipale += 100;
+            interna.MetodoInterno();
+            interna.varClasseInterna += 30;
+            Console.WriteLine($"\nDal MetodoClassePrincipale() =\n" + $"La varClassePrincipale ha un valore di :{varClassePrincipale}\n" + $"La varClasseInterna ha un valore di : {interna.varClasseInterna}\n");
+        }
+    }
+}
+
+//CLASSI PARZIALI
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace classi_parziali
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //viene situata du 2 o più file diversi.
+            //si usano proprio qunado abbiamo necessità di creare più file
+            //ma tutti funzionano con una singola classe
+            ClasseParziale classeparziale = new ClasseParziale();
+            Console.WriteLine(classeparziale.total());
+        }
+    }
+    public partial class ClasseParziale
+    {
+        int varIntera = 10;
+        public int total()
+        {
+            int totale = varIntera + varInteraDiUnAltroFile;
+            return totale;
+        }
+    }
+}
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace classi_parziali
+{
+    public partial class ClasseParziale
+    {
+        int varInteraDiUnAltroFile = 20;
+    }
+}
+
+//ENUMERAZIONE
+namespace enumerazione
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            arcobaleno primaEnum = arcobaleno.rosso;
+            Console.WriteLine("dichiaro una prima enum = " + primaEnum); //rosso
+            string varString = arcobaleno.arancione.ToString();
+            Console.WriteLine("converto in string = " + varString); //arancione
+            int varInt = (int)arcobaleno.giallo;
+            Console.WriteLine("converto in int = " + varInt); //2
+            int varInt2 = (int)arcobaleno.verde;
+            Console.WriteLine("imposto un valore di 30 al verde = " + varInt2); //30
+            int varInt3 = (int)arcobaleno.blu;
+            Console.WriteLine("imposto un valore di blu = " + varInt3); //31
+        }
+    }
+    public enum arcobaleno
+    {
+        //usate quando a variabile si deve obbligatoriamente dare uno dei valori prestabiliti da noi
+        //all'interno di un elenco /set dichiarato: giorni settimana, mesi anno
+        rosso,
+        arancione,
+        giallo,
+        verde = 30,
+        blu,
+        violetto
+    }
+}
+
+//INTERFACCE
+namespace interfacce
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            CasaMia casamia = new CasaMia();
+            casamia.Ingresso();
+            casamia.Cucina();
+            casamia.Bagno();
+            casamia.Piani();
+        }
+    }
+    public interface Architettura
+    {
+        void TipoDiArchitettura();
+    }
+    public class Palazzo
+    {
+        int piani = 10;
+        public void Piani()
+        {
+            Console.WriteLine($"il palazzo ha ben {piani} piani");
+        }
+    }
+    public interface StrutturaDiCasa : Architettura
+    {
+        void Ingresso();
+        void Cucina();
+        void Bagno();
+    }
+    public class CasaMia : Palazzo, StrutturaDiCasa
+    {
+        public void Ingresso()
+        {
+            Console.WriteLine("Ingresso grande 5mq");
+        }
+        public void Cucina()
+        {
+            Console.WriteLine("Cucina grande 5mq");
+        }
+        public void Bagno()
+        {
+            Console.WriteLine("Bagno grande 5mq");
+        }
+        public void TipoDiArchitettura()
+        {
+            Console.WriteLine("Architettura : Gotica");
+        }
+    }
+}
+
+//ECCEZIONI
+namespace eccezzioni
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //try catch finally
+            //finally sia se c'è stata un'eccezzione oppure o try andato a buon fine
+            int varTuturial1 = 4;
+            IniziaDiNuovo:
+            int varTutorial2 = Convert.ToInt32(Console.ReadLine());
+            double totale = 0;
+            //se var2 = 0 da errore
+            try
+            {
+                totale = varTuturial1 / varTutorial2;
+                Console.WriteLine("\nDivisione nel try eseguita");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("\nL'errore è stato : " + e.Message);
+                //Console.WriteLine("\nL'errore è stato : " + e.ToString());
+                //se try non va a buon fine entro qui
+                Console.WriteLine("\nNel cath la variabile totale equivale a : " + totale);
+                goto IniziaDiNuovo;
+            }
+            finally
+            {
+                Console.WriteLine("\nNel finally la variabile totale equivale a : " + totale);
+            }
+            Console.WriteLine(totale);
+        }
+    }
+}
+
+//TIPI GENERICI
+namespace tipi_generici
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //utilizzate quando creiamo un programma modulare nel quale non conosciamo il determinato tipo
+            //di dati con cui andremo a lavorare, diamo un segnaposto a questi dati che verrà compilato con
+            //il tipo giusto, al momento del suo richiamo
+            ClaaseGenerica<string, int> tutorial1 = new ClaaseGenerica<string, int>();
+            tutorial1.elemento = "Hello World";
+            tutorial1.elemento2 = 100;
+            Console.WriteLine(tutorial1.elemento + " " + tutorial1.elemento2);
+        }
+    }
+    public class ClaaseGenerica<T, U>
+    {
+        public T elemento;
+        public U elemento2;
+    }
+}
+
+//SCRIVERE FILE
+namespace salvare_e_scrivere_file
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Directory.CreateDirectory(@"C:\Users\angel\OneDrive\Desktop\boolean\07)C#\41) salvare e scrivere file);
+            string fileTutorial = @"C:\Users\angel\OneDrive\Desktop\boolean\07)C#\41) salvare e scrivere file\Tutorial.txt";
+            StreamWriter streamwriter = new StreamWriter(fileTutorial, true);
+            //true non fa creare un nuovo file ogni volta che faccio debug ma aggiunge nuove righe
+            streamwriter.WriteLine("Tizio");
+            streamwriter.WriteLine("Caio");
+            streamwriter.Close();
+        }
+    }
+}
+
+LEGGERE FILE
+namespace leggere_file
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string fileturorial = @"C:\Users\angel\OneDrive\Desktop\boolean\07)C#\42) leggere file\Lettura.txt";
+            StreamReader streamreader = new StreamReader(fileturorial);
+            Console.WriteLine(streamreader.ReadToEnd());
+            streamreader.Close();
+        }
+    }
+}
+
+//DELEGATE
+namespace @delegate
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //utilizzati per passare metodi come argomenti ad altri metodi, sono puntatori che non rappresentano
+            //un valore, ma un metodo
+            Tutorial tutorial = new Tutorial();
+            string risposta;
+            PrimoDelegato varPrimoDel = tutorial.MarioRossi;
+            //risposta = varPrimoDel(10, 18);
+            //Console.WriteLine(risposta);
+            varPrimoDel += tutorial.TizianoCaioi;
+            Console.WriteLine(varPrimoDel(10, 18));
+        }
+    }
+    public delegate string PrimoDelegato(int anni, int maggiorenne);
+    public class Tutorial 
+    {
+        public string MarioRossi(int anni, int maggiorenne)
+        {
+            string eta;
+            if (anni > maggiorenne)
+            {
+                eta = "Maggiorenne";
+            }
+            else
+            {
+                eta = "Minorenne";
+            }
+            return eta;
+        }
+        public string TizianoCaioi(int anni, int maggiorenne)
+        {
+            string eta;
+            if (anni > maggiorenne)
+            {
+                eta = "Maggiorenne";
+            }
+            else
+            {
+                eta = "Minorenne";
+            }
+            return eta;
+        }
+    }
+}
+
+//DELEGATE FUNC
+namespace delegate_func
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //necessita obbligatoriamente un ritorno
+            Func<int> FuncNoParamentri_inMain;
+            Func<int, string, bool, int> FuncConParametri_inMain; //ultimo parametro è quello di ritorno
+            Program program = new Program();
+            FuncNoParamentri_inMain = program.MeotodoSenzaParametri;
+            Console.WriteLine(FuncNoParamentri_inMain());
+            bool varBool = true;
+            FuncConParametri_inMain = program.MeotdoConParametri;
+            Console.WriteLine(FuncConParametri_inMain(10, "Func", varBool));
+        }
+        public int MeotodoSenzaParametri()
+        {
+            int z = 0;
+            return z;
+        }
+        public int MeotdoConParametri(int intero, string stringa, bool booleriana)
+        {
+            int operazione = 0;
+            if (stringa == "Func")
+            {
+                if (booleriana)
+                {
+                    operazione = intero;
+                }
+            }
+            return operazione;
+        }
+    }
+}
+
+//DELEGATE ACTION
+namespace delegate_action
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //necessita di un metodo vuoto
+            Program program = new Program();
+            Action ActionNoParametri = program.MeotodoSenzaParametri;
+            Action<int, string, bool> ActionConParametri = program.MeotdoConParametri;
+            //metodo senza parametri
+            //ActionNoParametri = program.MeotodoSenzaParametri;
+            ActionNoParametri();
+            //metodo con parametri
+            //ActionConParametri = program.MeotdoConParametri;
+            ActionConParametri(10, "Action", true);
+        }
+        public void MeotodoSenzaParametri()
+        {
+            int z = 0;
+            Console.WriteLine("Metodo senza parametro" + z);
+        }
+        public void MeotdoConParametri(int intero, string stringa, bool booleriana)
+        {
+            int operazione = 0;
+            if (stringa == "Action")
+            {
+                if (booleriana)
+                {
+                    operazione = intero;
+                }
+            }
+            Console.WriteLine("Metodo con parametro");
+
+        }
+    }
+}
+

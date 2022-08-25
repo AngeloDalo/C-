@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\09) if else\if else\bin\Debug\if else.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\09) if else\if else\bin\Debug\if else.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\09) if else\if else\bin\Debug\if else.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\09) if else\if else\obj\Debug\if else.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\09) if else\if else\obj\Debug\if else.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\09) if else\if else\obj\Debug\if else.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\09) if else\if else\obj\Debug\if else.pdb

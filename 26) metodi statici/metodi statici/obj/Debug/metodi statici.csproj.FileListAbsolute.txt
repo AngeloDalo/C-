@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\26) metodi statici\metodi statici\bin\Debug\metodi statici.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\26) metodi statici\metodi statici\bin\Debug\metodi statici.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\26) metodi statici\metodi statici\bin\Debug\metodi statici.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\26) metodi statici\metodi statici\obj\Debug\metodi statici.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\26) metodi statici\metodi statici\obj\Debug\metodi statici.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\26) metodi statici\metodi statici\obj\Debug\metodi statici.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\26) metodi statici\metodi statici\obj\Debug\metodi statici.pdb

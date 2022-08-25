@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\22) metodi\metodi\bin\Debug\metodi.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\22) metodi\metodi\bin\Debug\metodi.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\22) metodi\metodi\bin\Debug\metodi.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\22) metodi\metodi\obj\Debug\metodi.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\22) metodi\metodi\obj\Debug\metodi.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\22) metodi\metodi\obj\Debug\metodi.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\22) metodi\metodi\obj\Debug\metodi.pdb

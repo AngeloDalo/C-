@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\11) esercitazione 1\Esercitazione1\bin\Debug\Esercitazione1.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\11) esercitazione 1\Esercitazione1\bin\Debug\Esercitazione1.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\11) esercitazione 1\Esercitazione1\bin\Debug\Esercitazione1.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\11) esercitazione 1\Esercitazione1\obj\Debug\Esercitazione1.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\11) esercitazione 1\Esercitazione1\obj\Debug\Esercitazione1.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\11) esercitazione 1\Esercitazione1\obj\Debug\Esercitazione1.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\11) esercitazione 1\Esercitazione1\obj\Debug\Esercitazione1.pdb

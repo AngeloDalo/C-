@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\42) leggere file\leggere file\bin\Debug\leggere file.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\42) leggere file\leggere file\bin\Debug\leggere file.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\42) leggere file\leggere file\bin\Debug\leggere file.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\42) leggere file\leggere file\obj\Debug\leggere file.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\42) leggere file\leggere file\obj\Debug\leggere file.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\42) leggere file\leggere file\obj\Debug\leggere file.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\42) leggere file\leggere file\obj\Debug\leggere file.pdb

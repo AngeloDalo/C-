@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "salvare e scrivere file", "salvare e scrivere file.csproj", "{B6E5193A-3EE6-401C-AE9C-D233D84B747F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E5193A-3EE6-401C-AE9C-D233D84B747F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E5193A-3EE6-401C-AE9C-D233D84B747F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E5193A-3EE6-401C-AE9C-D233D84B747F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E5193A-3EE6-401C-AE9C-D233D84B747F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B48313-2628-4B1F-A8D5-4C4B49B78319}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\30) foreach\foreach\bin\Debug\@foreach.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\30) foreach\foreach\bin\Debug\@foreach.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\30) foreach\foreach\bin\Debug\@foreach.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\30) foreach\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\30) foreach\foreach\obj\Debug\@foreach.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\30) foreach\foreach\obj\Debug\@foreach.pdb

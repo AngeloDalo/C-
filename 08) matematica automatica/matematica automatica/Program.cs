@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace matematica_automatica
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //matematica automatica
+            int x = 5;
+            x += 1; //6
+            x++; //7
+            x--; //6
+            int y = 10 + ++x; //da 17 se metto x++ da 16 
+            Console.WriteLine(y);
+            Console.WriteLine(x);
+
+        }
+    }
+}

@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace @switch
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Sei pronto/a? (Si o No)");
+            string risposta1 = Console.ReadLine();
+            int x = 0;
+
+            switch (risposta1)
+            {
+                //si
+                case "si": Console.WriteLine("Hai risposto di si"); x++; break;
+                case "Si": Console.WriteLine("Hai risposto di si"); x++; break;
+                case "SI": Console.WriteLine("Hai risposto di si"); x++; break;
+                //no
+                case "no": Console.WriteLine("Hai risposto di no"); x--; break;
+                case "No": Console.WriteLine("Hai risposto di no"); x--; break;
+                case "NO": Console.WriteLine("Hai risposto di no"); x--; break;
+                //nessun caso di sopra
+                default: Console.WriteLine("Hai risposto ne si ne no"); x=100; break;
+            }
+
+            Console.WriteLine(x);
+        }
+    }
+}

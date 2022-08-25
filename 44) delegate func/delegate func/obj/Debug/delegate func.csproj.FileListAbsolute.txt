@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\44) delegate func\delegate func\bin\Debug\delegate func.exe.config
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\44) delegate func\delegate func\bin\Debug\delegate func.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\44) delegate func\delegate func\bin\Debug\delegate func.pdb
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\44) delegate func\delegate func\obj\Debug\delegate func.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\44) delegate func\delegate func\obj\Debug\delegate func.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\44) delegate func\delegate func\obj\Debug\delegate func.exe
+C:\Users\angel\OneDrive\Desktop\boolean\07)C#\44) delegate func\delegate func\obj\Debug\delegate func.pdb
